@@ -69,13 +69,14 @@ random.seed(SEED)
 
 📈 Graphiques générés
 
-Graphique	                    Description
-scratch_training_curves.png	  Évolution loss/accuracy du modèle from scratch
-concise_training_curves.png	  Évolution loss/accuracy du modèle concise
-hidden_impact.png	            Précision en fonction du nombre de neurones cachés
-lr_impact.png	                Précision en fonction du taux d'apprentissage
-train_test_curves.png	        Évolution train/test pour h=16, 128, 1024
-gap_evolution.png	            Évolution du gap train-test
+| Graphique | Description |
+|-----------|-------------|
+| scratch_training_curves.png | Évolution des pertes et de la précision pendant l'entraînement du modèle from scratch |
+| concise_training_curves.png | Évolution des pertes et de la précision pendant l'entraînement du modèle concise |
+| hidden_impact.png | Évolution de la précision en fonction du nombre de neurones cachés |
+| lr_impact.png | Évolution de la précision en fonction du taux d'apprentissage |
+| train_test_curves.png | Évolution des précisions train/test pour différentes capacités (h=16, h=128, h=1024) |
+| gap_evolution.png | Évolution du gap train-test pour différentes capacités |
 
 👨‍💻 Auteur
 Rayane LOUKHMI
