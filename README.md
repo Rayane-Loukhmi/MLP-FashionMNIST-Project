@@ -21,16 +21,19 @@ Ce projet a été réalisé dans le cadre d'un mini-projet de Deep Learning. Il 
 | Optimal | **87.00%** | h=1024, lr=0.1 |
 
 ## 📁 Structure du repository
+
+```
 MLP-FashionMNIST-Project/
-├── MLP-DeepLearning-version_final.ipynb # Notebook principal
-├── figures/ # Graphiques générés
-│ ├── scratch_training_curves.png
-│ ├── concise_training_curves.png
-│ ├── hidden_impact.png
-│ ├── lr_impact.png
-│ ├── train_test_curves.png
-│ └── gap_evolution.png
-└── README.md # Ce fichier
+├── MLP-DeepLearning-version_final.ipynb   # Notebook principal
+├── figures/                               # Graphiques générés
+│   ├── scratch_training_curves.png
+│   ├── concise_training_curves.png
+│   ├── hidden_impact.png
+│   ├── lr_impact.png
+│   ├── train_test_curves.png
+│   └── gap_evolution.png
+└── README.md                              # Ce fichier
+```
 
 
 ## 🚀 Exécution
